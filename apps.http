@@ -1,0 +1,9 @@
+POST  http://localhost:3001/players/
+Content-Type: application/json
+
+{
+
+    "playerName":"srihas",
+    "jerseyNumber":22,
+    "role":"All-Rounder"
+}
